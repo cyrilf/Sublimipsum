@@ -1,0 +1,13 @@
+[
+    {
+        "caption":"Insert Lorem Ipsum",
+        "command": "ipsum",
+        "mnemonic": "IP",
+        "children":
+        [
+            {"command": "ipsum", "caption": "1 line", "args":{"size":1}},
+            {"command": "ipsum", "caption": "5 lines", "args":{"size":5}},
+            {"command": "ipsum", "caption": "10 lines", "args":{"size":10}}
+        ] 
+    }
+]

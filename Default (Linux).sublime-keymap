@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+1"], "command": "ipsum" , "args": { "size": 1 } },
+	{ "keys": ["ctrl+2"], "command": "ipsum" , "args": { "size": 5 } },
+	{ "keys": ["ctrl+3"], "command": "ipsum" , "args": { "size": 10 } }
+]
