@@ -9,7 +9,8 @@
                 [
                     {
                         "caption":"Insert Lorem Ipsum",
-                        "command": "ipsum",
+                        // caused automatic insert of smallest ipsum on hover
+                        //"command": "ipsum",
                         "mnemonic": "IP",
                         "children":
                         [
